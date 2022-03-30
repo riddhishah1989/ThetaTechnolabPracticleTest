@@ -1,3 +1,9 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">TheataTechnolabPracticle</string>
+    <string name="splash_title">Riddhi Shah - Practical Test</string>
+    <string name="login">Login</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Profile</string>
+    <string name="no_network" tools:ignore="ExtraTranslation">No internet connection! Please try later</string>
 </resources>
